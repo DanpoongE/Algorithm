@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="32cd4033-2956-41ec-99aa-3ebcde0e6fcc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/240201.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SWEA/1210.Ladder1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SWEA/1210.Ladder1/.idea/1210.Ladder1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SWEA/1210.Ladder1/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SWEA/1210.Ladder1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SWEA/1210.Ladder1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SWEA/1210.Ladder1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SWEA/1210.Ladder1/1210.Ladder1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SWEA/1954.snail_number/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SWEA/1954.snail_number/.idea/1954.snail_number.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SWEA/1954.snail_number/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SWEA/1954.snail_number/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SWEA/1954.snail_number/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SWEA/1954.snail_number/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SWEA/1954.snail_number/1954.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SWEA/19641.binary_selection/.idea/19641.binary_selection.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SWEA/19641.binary_selection/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SWEA/19641.binary_selection/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SWEA/19641.binary_selection/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SWEA/19641.binary_selection/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SWEA/19641.binary_selection/19641.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SWEA/9490.balloon/.idea/9490.balloon.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SWEA/9490.balloon/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SWEA/9490.balloon/9490.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SWEA/9490.balloon/practice_9490.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/search_practice.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bi_search.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selection_sort.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../240131/SWEA/1979.word/1979.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../240131/SWEA/1979.word/1979.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="2bkG3f181IMpu9w8dQOQBkbMZ2d" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/selection_sort.py" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration name="selection_sort" type="PythonConfigurationType" factoryName="Python">
+      <module name="search_practice" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\SSAFY\AppData\Local\Programs\Python\Python39\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/selection_sort.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="32cd4033-2956-41ec-99aa-3ebcde0e6fcc" name="Default Changelist" comment="" />
+      <created>1706751466075</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1706751466075</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
