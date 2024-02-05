@@ -11,7 +11,7 @@ def binary_search(bookpage, key):
             return count
         elif middle < key:          # 아니라구요? 찾는 값이 middle보다 크면
             count += 1
-            start = middle      # 시작 지점을 middle+1로 다시 잡을게요!
+            start = middle      # 시작 지점을 middle로 다시 잡을게요!
         else:
             count += 1
             end = middle
