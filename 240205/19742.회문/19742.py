@@ -9,16 +9,16 @@ for tc in range(1, T+1):
 
 
 
-    # # 행의 숫자 i
-    # for i in range(N):
-    #     word = arr[i][0]
-    #
-    #     for j in range(N-M+1):
-    #         new_word = word[j:j+M]
-    #         reversed_word = new_word[::-1]
-    #
-    #         if new_word == reversed_word:
-    #             print(f'#{tc} {new_word}')
+    # 행의 숫자 i
+    for i in range(N):
+        word = arr[i][0]
+    
+        for j in range(N-M+1):
+            new_word = word[j:j+M]
+            reversed_word = new_word[::-1]
+    
+            if new_word == reversed_word:
+                print(f'#{tc} {new_word}')
     #
     # # 열
     # for j in range(N):
