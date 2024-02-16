@@ -17,7 +17,8 @@ for tc in range(1, T+1):
             stack.append(i)
         else: # 토큰이 피연산자라면 토큰 출력
             new_fx += i
-    new_fx += stack.pop() # 남아있는 연산자 다 꺼내기(그래봤자 +하나)
+    while stack: # len(stack) -> 0 -> False로 판단.
+        new_fx += stack.pop() # 남아있는 연산자 다 꺼내기(그래봤자 +하나)
     # print(new_fx)
 
     # 해당 후위표기식을 계산할 수 있는 프로그램 만들기
