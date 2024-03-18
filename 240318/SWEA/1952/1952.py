@@ -1,3 +1,6 @@
+import sys
+sys.stdin = open("1952.txt")
+
 T = int(input())
 
 for t in range(1, T + 1):
@@ -29,11 +32,6 @@ for t in range(1, T + 1):
     if day_mon_mix <= ans:
         ans = day_mon_mix
 
-    # startidx_of_3months = []
-    # for i in range(10):
-    #     if schedule[i] > 0 and schedule[i + 1] > 0 and schedule[i + 2] > 0:
-    #         startidx_of_3months.append(i)
-
     # 3달 이용권만 이용시
     month3_ticket = 0
     for m in range(visit_times):
@@ -50,7 +48,7 @@ for t in range(1, T + 1):
     mix_cost = 0
     if 4 <= visit_times <= 6:        # 3달 이용권은 한번만
         for idx in range(10): # 시작 인덱스로부터
-            mix_cost += costs[2]
+            mix_cost = costs[2]
             for ii in range(12):
                 if ii not in [idx, idx+1, idx+2]: # 연속 3달은 패스하고 일일권과 한달권 비교
                     if costs[0] * schedule[ii] <= costs[1]: # 일일권이 더 싸면
@@ -64,9 +62,10 @@ for t in range(1, T + 1):
 
     elif 7 <= visit_times <= 9:      # 3달 이용권 최대 2번
         for idx in range(10):                   # 3달 이용권 1번 이용시
-            mix_cost += costs[2]
+            mix_cost = costs[2]
             for ii in range(12):
                 if ii not in [idx, idx+1, idx+2]:
+                    # mix_cost += costs[2]
                     if costs[0] * schedule[ii] <= costs[1]: # 일일권이 더 싸면
                         mix_cost += costs[0] * schedule[ii]
                     else:
@@ -77,24 +76,24 @@ for t in range(1, T + 1):
                 mix_cost = 0
 
         for idx in range(10):                   # 3달 이용권 2번 이용시
-            mix_cost += costs[2]
+            mix_cost = costs[2]
             for idx2 in range(10):
-                mix_cost += costs[2]
                 if idx2 not in [idx, idx+1, idx+2]:
+                    mix_cost = costs[2] * 2
                     for idx3 in range(12):  # 일일이나 한달이용권
                         if idx3 not in [idx, idx + 1, idx + 2, idx2, idx2 + 1, idx2 + 2]:
                             if costs[0] * schedule[idx3] <= costs[1]: # 일일권이 더 싸면
                                 mix_cost += costs[0] * schedule[idx3]
                             else:
                                 mix_cost += costs[1]
-            if mix_cost <= ans:
-                ans = mix_cost
-            else:
-                mix_cost = 0
+                    if mix_cost <= ans:
+                        ans = mix_cost
+                    else:
+                        mix_cost = 0
 
     elif 10 <= visit_times <= 12:
         for idx in range(10):                   # 3달 이용권 1번 이용시
-            mix_cost += costs[2]
+            mix_cost = costs[2]
             for ii in range(12):
                 if ii not in [idx, idx+1, idx+2]:
                     if costs[0] * schedule[ii] <= costs[1]: # 일일권이 더 싸면
@@ -105,41 +104,42 @@ for t in range(1, T + 1):
                 ans = mix_cost
             else:
                 mix_cost = 0
-
+        
         for idx in range(10):                   # 3달 이용권 2번 이용시
-            mix_cost += costs[2]
+            mix_cost = costs[2]
             for idx2 in range(10):
-                mix_cost += costs[2]
                 if idx2 not in [idx, idx+1, idx+2]:
+                    mix_cost = costs[2] * 2
                     for idx3 in range(12):  # 일일이나 한달이용권
                         if idx3 not in [idx, idx + 1, idx + 2, idx2, idx2 + 1, idx2 + 2]:
                             if costs[0] * schedule[idx3] <= costs[1]: # 일일권이 더 싸면
                                 mix_cost += costs[0] * schedule[idx3]
                             else:
                                 mix_cost += costs[1]
-            if mix_cost <= ans:
-                ans = mix_cost
-            else:
-                mix_cost = 0
+                    if mix_cost <= ans:
+                        ans = mix_cost
+                    else:
+                        mix_cost = 0
 
         for idx in range(10):               # 3달 이용권 3번 이용시
-            mix_cost += costs[2]
+            mix_cost = costs[2]
             for idx2 in range(10):
-                mix_cost += costs[2]
                 if idx2 not in [idx, idx + 1, idx + 2]:
+                    mix_cost = costs [2] * 2
                     for idx3 in range(10):
-                        mix_cost += costs[2]
                         if idx3 not in [idx, idx + 1, idx + 2, idx2, idx2 + 1, idx2 + 2]:
+                            mix_cost = costs[2] * 3
                             for idx4 in range(12):
                                 if idx4 not in [idx, idx2, idx3, idx+1, idx2+1, idx3+1, idx+2, idx2+2, idx3+2]:
                                     if costs[0] * schedule[idx4] <= costs[1]:
                                         mix_cost += costs[0] * schedule[idx4]
                                     else:
                                         mix_cost += costs[1]
-            if mix_cost <= ans:
-                ans = mix_cost
-            else:
-                mix_cost = 0
+                                        
+                            if mix_cost <= ans:
+                                ans = mix_cost
+                            else:
+                                mix_cost = 0
 
     # 1년 이용권 이용시
     if costs[3] <= ans:
