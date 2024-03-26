@@ -25,43 +25,41 @@ T = int(input())
 for tc in range(1, T + 1):
     D, W, K = map(int, input().split())
     arr = [list(map(int, input().split())) for _ in range(D)]
-    original_arr = copy.deepcopy(arr)
+    test_arr = copy.deepcopy(arr)
     r_lst = [n for n in range(D)]
-    k = 0
+    ans = 0
     standardA = '0' * K
     standardB = '1' * K
     result = 'unsafe'
 
-    if is_safe(arr, D, W) == 'safe':
-        print(f'#{tc}', k)
+    if is_safe(arr, D, W) == 'safe':        # 주입 안해도 통과
+        print(f'#{tc}', ans)
 
     else:
         # while is_safe(arr, D, W) != 'safe':
         for k in range(1, D + 1):       # 주입할 줄의 개수. 1줄, 2줄...
-            print(k)
-            cnt = k
             inject_lst = [i for i in combinations(r_lst, k)] # 주입할 줄을 튜플로 담은 리스트
             flag = 0
 
             for nums in inject_lst:
-                arr = original_arr
+                test_arr = arr
                 for rows in nums:
-                    arr[rows] = [0] * W     # A 약물 주입
+                    test_arr[rows] = [0] * W     # A 약물 주입
 
                 if is_safe(arr, D, W) == 'safe': # 안전검사 통과하면
                     flag = 1
                     break
 
                 # A 약물 주입한 결과 통과 못했으면
-                arr = original_arr  # arr 초기화
+                test_arr = arr # arr 초기화
                 for rows in nums:
-                    arr[rows] = [1] * W     # B 약물 주입
+                    test_arr[rows] = [1] * W     # B 약물 주입
                 if is_safe(arr, D, W) == 'safe':    # 안전검사 통과하면
                     flag = 1
                     break
 
             # if flag == 1:
-                print(f'#{tc}', cnt)
+                print(f'#{tc}', k)
                 break
 
 

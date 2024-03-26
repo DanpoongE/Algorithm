@@ -1,47 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d43faa93-2748-43ac-9146-879163594941" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/240318/SWEA/1952.수영장/1952.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/240318/SWEA/1952.수영장/1952.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/240318/SWEA/1952.수영장/1952dp.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/240318/SWEA/1952.수영장/1952input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/240318/SWEA/1952.수영장/1952recur.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/240318/SWEA/5204.분할정렬/5204강사님풀이.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/240318/practice/binarysearch.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/240319/SWEA/1865/1865.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/240319/SWEA/1865/1865.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/240319/SWEA/1865/1865sample.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/240319/practice/backtracking.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/240319/practice/permutation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/240320/SWEA/1953/1953.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/240320/SWEA/1953/1953.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/240320/SWEA/5248/5248.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/240320/SWEA/5248/5248.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/240320/practice/BFS.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/240320/practice/DFS.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/240320/practice/unionset.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/240321/SWEA/5249/5249.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/240321/SWEA/5249/5249.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/240321/SWEA/5250/5250.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/240321/SWEA/5250/5250.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/240321/SWEA/5251.최소이동거리/5251.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/240321/SWEA/5251.최소이동거리/5251.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/240321/practice/dijkstra.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/240321/practice/dijkstra.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/240321/practice/kruskal.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/240321/practice/prim.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/240321/practice/prim.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/240322/SWEA/2112/2112.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/240322/SWEA/2112/2112.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BJ/1697/B1697.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BJ/1697/B1697.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BJ/7569.토마토/B7569.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BJ/7569.토마토/B7569.txt" afterDir="false" />
+    <list default="true" id="801b3521-7a9e-44ee-b551-9e3c7261d3be" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/240326/SWEA/2115.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/240326/SWEA/2115.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/240326/SWEA/2115revised.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BJ/1987/1987.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BJ/1987/1987.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/240318/SWEA/1952/1952.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/240318/SWEA/1952/1952.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/240318/SWEA/1952/1952input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/240322/SWEA/2112/2112.py" beforeDir="false" afterPath="$PROJECT_DIR$/240322/SWEA/2112/2112.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,28 +33,19 @@
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
   </component>
-  <component name="ProjectId" id="2dqAVTgYismdrVHcwcKbjJrfvn5" />
-  <component name="ProjectLevelVcsManager">
-    <ConfirmationsSetting value="2" id="Add" />
-  </component>
+  <component name="ProjectId" id="2eA1wXRujKZbQyrurKRWYJjnAs5" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/240322/SWEA/2112/2112.txt" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/240326/SWEA/2115.txt" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\SSAFY\Desktop\Algorithm\240321\practice" />
-    </key>
-  </component>
-  <component name="RunManager" selected="Python.2112">
-    <configuration name="1865" type="PythonConfigurationType" factoryName="Python">
+  <component name="RunManager" selected="Python.2115">
+    <configuration name="2115" type="PythonConfigurationType" factoryName="Python">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -95,20 +53,20 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="C:\python3\pypy3.7-v7.3.4-win64\pypy3.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/240319/SWEA/1865" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/240326/SWEA" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/240319/SWEA/1865/1865.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/240326/SWEA/2115.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
       <option name="REDIRECT_INPUT" value="true" />
-      <option name="INPUT_FILE" value="C:\Users\SSAFY\Desktop\Algorithm\240319\SWEA\1865\1865.txt" />
+      <option name="INPUT_FILE" value="C:\Users\SSAFY\Desktop\Algorithm\240326\SWEA\2115.txt" />
       <method v="2" />
     </configuration>
-    <configuration name="1865sample" type="PythonConfigurationType" factoryName="Python">
+    <configuration name="B1987" type="PythonConfigurationType" factoryName="Python">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -116,340 +74,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="C:\python3\pypy3.7-v7.3.4-win64\pypy3.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/240319/SWEA/1865" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BJ/1987" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/240319/SWEA/1865/1865.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BJ/1987/1987.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
       <option name="REDIRECT_INPUT" value="true" />
-      <option name="INPUT_FILE" value="C:\Users\SSAFY\Desktop\Algorithm\240319\SWEA\1865\1865sample.txt" />
-      <method v="2" />
-    </configuration>
-    <configuration name="1952" type="PythonConfigurationType" factoryName="Python">
-      <module name="Algorithm" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="C:\python3\pypy3.7-v7.3.4-win64\pypy3.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/240318/SWEA/1952" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/240318/SWEA/1952/1952.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="true" />
-      <option name="INPUT_FILE" value="C:\Users\SSAFY\Desktop\Algorithm\240318\SWEA\1952\1952input.txt" />
-      <method v="2" />
-    </configuration>
-    <configuration name="1952dp" type="PythonConfigurationType" factoryName="Python">
-      <module name="Algorithm" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="C:\python3\pypy3.7-v7.3.4-win64\pypy3.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/240318/SWEA/1952" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/240318/SWEA/1952/1952dp.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="true" />
-      <option name="INPUT_FILE" value="C:\Users\SSAFY\Desktop\Algorithm\240318\SWEA\1952\1952input.txt" />
-      <method v="2" />
-    </configuration>
-    <configuration name="1953" type="PythonConfigurationType" factoryName="Python">
-      <module name="Algorithm" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="C:\python3\pypy3.7-v7.3.4-win64\pypy3.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/240320/SWEA/1953" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/240320/SWEA/1953/1953.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="true" />
-      <option name="INPUT_FILE" value="C:\Users\SSAFY\Desktop\Algorithm\240320\SWEA\1953\1953.txt" />
-      <method v="2" />
-    </configuration>
-    <configuration name="2112" type="PythonConfigurationType" factoryName="Python">
-      <module name="Algorithm" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="C:\python3\pypy3.7-v7.3.4-win64\pypy3.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/240322/SWEA/2112" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/240322/SWEA/2112/2112.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="true" />
-      <option name="INPUT_FILE" value="C:\Users\SSAFY\Desktop\Algorithm\240322\SWEA\2112\2112.txt" />
-      <method v="2" />
-    </configuration>
-    <configuration name="5204" type="PythonConfigurationType" factoryName="Python">
-      <module name="Algorithm" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="C:\python3\pypy3.7-v7.3.4-win64\pypy3.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/240318/SWEA/5204" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/240318/SWEA/5204/5204.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="true" />
-      <option name="INPUT_FILE" value="C:\Users\SSAFY\Desktop\Algorithm\240318\SWEA\5204\5204input.txt" />
-      <method v="2" />
-    </configuration>
-    <configuration name="5248" type="PythonConfigurationType" factoryName="Python">
-      <module name="Algorithm" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="C:\python3\pypy3.7-v7.3.4-win64\pypy3.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/240320/SWEA/5248" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/240320/SWEA/5248/5248.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="true" />
-      <option name="INPUT_FILE" value="C:\Users\SSAFY\Desktop\Algorithm\240320\SWEA\5248\5248.txt" />
-      <method v="2" />
-    </configuration>
-    <configuration name="5251" type="PythonConfigurationType" factoryName="Python">
-      <module name="Algorithm" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="C:\python3\pypy3.7-v7.3.4-win64\pypy3.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/240321/SWEA/5251" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/240321/SWEA/5251/5251.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="true" />
-      <option name="INPUT_FILE" value="C:\Users\SSAFY\Desktop\Algorithm\240321\SWEA\5251\5251.txt" />
-      <method v="2" />
-    </configuration>
-    <configuration name="B1697" type="PythonConfigurationType" factoryName="Python">
-      <module name="Algorithm" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="C:\python3\pypy3.7-v7.3.4-win64\pypy3.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BJ/1697" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BJ/1697/B1697.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="true" />
-      <option name="INPUT_FILE" value="C:\Users\SSAFY\Desktop\Algorithm\BJ\1697\B1697.txt" />
-      <method v="2" />
-    </configuration>
-    <configuration name="B7569" type="PythonConfigurationType" factoryName="Python">
-      <module name="Algorithm" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="C:\python3\pypy3.7-v7.3.4-win64\pypy3.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BJ/7569" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BJ/7569/B7569.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="true" />
-      <option name="INPUT_FILE" value="C:\Users\SSAFY\Desktop\Algorithm\BJ\7569\B7569.txt" />
-      <method v="2" />
-    </configuration>
-    <configuration name="DFS" type="PythonConfigurationType" factoryName="Python">
-      <module name="Algorithm" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="C:\python3\pypy3.7-v7.3.4-win64\pypy3.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/240320/practice" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/240320/practice/DFS.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="backtracking" type="PythonConfigurationType" factoryName="Python">
-      <module name="Algorithm" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="C:\python3\pypy3.7-v7.3.4-win64\pypy3.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/240319/practice" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/240319/practice/backtracking.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="binarysearch" type="PythonConfigurationType" factoryName="Python">
-      <module name="Algorithm" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="C:\python3\pypy3.7-v7.3.4-win64\pypy3.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/240318/practice" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/240318/practice/binarysearch.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="dijkstra" type="PythonConfigurationType" factoryName="Python">
-      <module name="Algorithm" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="C:\python3\pypy3.7-v7.3.4-win64\pypy3.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/240321/practice" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/240321/practice/dijkstra.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="true" />
-      <option name="INPUT_FILE" value="C:\Users\SSAFY\Desktop\Algorithm\240321\practice\dijkstra.txt" />
-      <method v="2" />
-    </configuration>
-    <configuration name="prim" type="PythonConfigurationType" factoryName="Python">
-      <module name="Algorithm" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="C:\python3\pypy3.7-v7.3.4-win64\pypy3.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/240321/practice" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/240321/practice/prim.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="true" />
-      <option name="INPUT_FILE" value="C:\Users\SSAFY\Desktop\Algorithm\240321\practice\prim.txt" />
+      <option name="INPUT_FILE" value="C:\Users\SSAFY\Desktop\Algorithm\BJ\1987\1987.txt" />
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.prim" />
-      <item itemvalue="Python.dijkstra" />
-      <item itemvalue="Python.5204" />
-      <item itemvalue="Python.1952" />
-      <item itemvalue="Python.binarysearch" />
-      <item itemvalue="Python.backtracking" />
-      <item itemvalue="Python.1952dp" />
-      <item itemvalue="Python.B7569" />
-      <item itemvalue="Python.1865" />
-      <item itemvalue="Python.1865sample" />
-      <item itemvalue="Python.1953" />
-      <item itemvalue="Python.DFS" />
-      <item itemvalue="Python.B1697" />
-      <item itemvalue="Python.5251" />
-      <item itemvalue="Python.2112" />
-      <item itemvalue="Python.5248" />
+      <item itemvalue="Python.B1987" />
+      <item itemvalue="Python.2115" />
     </list>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="d43faa93-2748-43ac-9146-879163594941" name="Default Changelist" comment="" />
-      <created>1710725258516</created>
+      <changelist id="801b3521-7a9e-44ee-b551-9e3c7261d3be" name="Default Changelist" comment="" />
+      <created>1711332808010</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1710725258516</updated>
+      <updated>1711332808010</updated>
     </task>
     <servers />
   </component>
@@ -465,75 +115,30 @@
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
-  <component name="VcsManagerConfiguration">
-    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/240318/SWEA/5204/5204.py</url>
+          <url>file://$PROJECT_DIR$/BJ/1987/1987.py</url>
+          <line>33</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/BJ/1987/1987.py</url>
           <line>19</line>
-          <option name="timeStamp" value="11" />
+          <option name="timeStamp" value="5" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/240318/SWEA/1952/1952.py</url>
-          <line>144</line>
-          <option name="timeStamp" value="19" />
+          <url>file://$PROJECT_DIR$/BJ/1987/1987.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="6" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/240318/SWEA/1952/1952.py</url>
-          <line>93</line>
-          <option name="timeStamp" value="25" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/240318/SWEA/1952/1952.py</url>
-          <line>123</line>
-          <option name="timeStamp" value="26" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/240318/SWEA/1952/1952dp.py</url>
-          <line>6</line>
-          <option name="timeStamp" value="27" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/240319/SWEA/1865/1865.py</url>
-          <line>81</line>
-          <option name="timeStamp" value="37" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/240319/SWEA/1865/1865.py</url>
-          <line>27</line>
-          <option name="timeStamp" value="39" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/BJ/1697/B1697.py</url>
-          <line>11</line>
-          <option name="timeStamp" value="45" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/240321/SWEA/5251/5251.py</url>
-          <line>36</line>
-          <option name="timeStamp" value="48" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/240322/SWEA/2112/2112.py</url>
-          <line>24</line>
-          <option name="timeStamp" value="61" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/240322/SWEA/2112/2112.py</url>
-          <line>37</line>
-          <option name="timeStamp" value="63" />
+          <url>file://$PROJECT_DIR$/240326/SWEA/2115.py</url>
+          <line>35</line>
+          <option name="timeStamp" value="8" />
         </line-breakpoint>
       </breakpoints>
-      <default-breakpoints>
-        <breakpoint type="python-exception">
-          <properties notifyOnTerminate="true" exception="BaseException">
-            <option name="notifyOnTerminate" value="true" />
-          </properties>
-        </breakpoint>
-      </default-breakpoints>
     </breakpoint-manager>
   </component>
 </project>
