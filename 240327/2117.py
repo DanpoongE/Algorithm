@@ -25,15 +25,14 @@ T = int(input())
 for x in range(1, T + 1):
     N, M = map(int, input().split())
     arr = [list(map(int, input().split())) for _ in range(N)]
-    max_profit = 0
     houses = 0
 
     for r in range(N):
         for c in range(N):  # arr 선회하면서 서비스지역마다 이윤 확인
             area = 1
-            while area <= N:
-                if profit(area)[0] > max_profit:
-                    max_profit, houses = profit(area)
+            while area <= N + 1:
+                if profit(area)[0] >= 0 and profit(area)[1] > houses:   # 손해를 보지 않고, 서비스할 수 있는 집의 개수가 더 많다면
+                    houses = profit(area)[1]
                 area += 1
     
     print(f'#{x}', houses)
