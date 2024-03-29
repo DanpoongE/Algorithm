@@ -52,28 +52,3 @@ for tc in range(4):
         print('a')
 
 
-    # a가 출력되는 경우
-    # board = [[0] * 1000 for _ in range(1000)]
-    # # 1번 사각형부터 채우기
-    # for i in range(squares[0], squares[2] + 1):
-    #     for j in range(squares[1], squares[3] + 1):
-    #         board[i][j] += 1
-    # # 2번 사각형 채우기
-    # for ii in range(squares[4], squares[6] + 1):
-    #     for jj in range(squares[5], squares[7] + 1):
-    #         if board[ii][jj] == 1:
-    #             print('a')
-    #             flag = 1
-    #             break
-    #     if flag == 1:
-    #         break
-
-
-    # elif squares[0] <= squares[4] < squares[2]:     # x좌표가 겹치고
-    #     if squares[3] == squares[5] or squares[1] == squares[7]:                # 1번 끝, 3번 시작 y좌표가 같을 경우
-    #         print('b')
-    #
-    # elif squares[2] == squares[4]:                  # x좌표 동일하고
-    #     if squares[5]< squares[3] <= squares[7] or squares[1] < squares[7] <= squares[3]:
-    #         print('b')
-
