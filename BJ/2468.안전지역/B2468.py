@@ -21,7 +21,7 @@ def find_safearea(i, j):
 
 N = int(input())
 hills = [list(map(int, input().split())) for _ in range(N)]
-ans = 0
+ans = 1
 
 # 최댓값 찾기 -> 장마철 비의 양 최대치
 max_height = 0
